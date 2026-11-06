@@ -1,0 +1,15 @@
+Django>=5.2,<5.3
+djangorestframework>=3.16,<3.17
+django-cors-headers>=4.7,<5
+PyMySQL>=1.1,<2
+python-dotenv>=1.0,<2
+cloudinary>=1.44,<2
+PyJWT>=2.10,<3
+bcrypt>=4.2,<6
+python-socketio>=5.12,<6
+uvicorn[standard]>=0.34,<1
+openpyxl>=3.1,<4
+opencv-python-headless>=4.10,<5
+ultralytics>=8.3,<9
+rapidocr>=3.10,<4
+onnxruntime>=1.20,<2

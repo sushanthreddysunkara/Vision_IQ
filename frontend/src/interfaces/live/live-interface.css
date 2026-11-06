@@ -1,0 +1,23 @@
+.live-interface-pages {
+  display: flex;
+  flex: 1 1 auto;
+  align-self: stretch;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+.live-interface-pages > * {
+  align-self: stretch;
+  width: 100%;
+  max-width: none;
+  min-width: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .live-interface-pages > * {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+  }
+}

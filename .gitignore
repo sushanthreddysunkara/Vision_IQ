@@ -1,0 +1,17 @@
+node_modules/
+dist/
+AIModel/
+aimodel/
+AI-Models/
+ai-models/
+Ai-models/
+Ai-Models/
+[Aa][Ii]-[Mm]odels/
+.vite/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.xlsx

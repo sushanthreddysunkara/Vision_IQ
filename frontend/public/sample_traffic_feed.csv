@@ -1,0 +1,20 @@
+ID,Timestamp (IST),Vehicle Type,Vehicle Number Plate,Plate Confidence,Vehicle Image,Speed (km/h),Speed Limit (km/h),Over Speed,Latitude,Longitude,Video Clip Path,Vehicle Image Path,Plate Image Path
+OBS-0001,2026-09-11 08:12:14,Car,TS 09 AB 4521,0.96,veh_obs_0001.jpg,72,60,Yes,17.4485,78.3742,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0001.jpg,/evidence/plates/plate_0001.jpg
+OBS-0002,2026-09-11 08:13:02,Bike,TG 08 CD 8214,0.94,veh_obs_0002.jpg,48,50,No,17.4431,78.3812,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0002.jpg,/evidence/plates/plate_0002.jpg
+OBS-0003,2026-09-11 08:14:31,Auto,TS 10 EF 2341,0.91,veh_obs_0003.jpg,42,40,Yes,17.4156,78.4350,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0003.jpg,/evidence/plates/plate_0003.jpg
+OBS-0004,2026-09-11 08:15:18,Bus,TS 07 GH 8912,0.98,veh_obs_0004.jpg,54,60,No,17.4319,78.4073,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0004.jpg,/evidence/plates/plate_0004.jpg
+OBS-0005,2026-09-11 08:16:07,Truck,TS 12 EF 9011,0.95,veh_obs_0005.jpg,68,60,Yes,17.4721,78.3298,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0005.jpg,/evidence/plates/plate_0005.jpg
+OBS-0006,2026-09-11 08:17:15,Tractor,TS 15 KL 3421,0.89,veh_obs_0006.jpg,32,40,No,17.4890,78.3150,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0006.jpg,/evidence/plates/plate_0006.jpg
+OBS-0007,2026-09-11 08:18:40,Jeep,TS 09 MN 5678,0.93,veh_obs_0007.jpg,65,60,Yes,17.4401,78.3489,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0007.jpg,/evidence/plates/plate_0007.jpg
+OBS-0008,2026-09-11 08:19:55,Van,TS 08 UV 9821,0.92,veh_obs_0008.jpg,51,60,No,17.4182,78.3371,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0008.jpg,/evidence/plates/plate_0008.jpg
+OBS-0009,2026-09-11 08:20:12,Pedestrians,N/A,0.97,ped_obs_0009.jpg,5,20,No,17.4435,78.3818,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0009.jpg,/evidence/plates/plate_0009.jpg
+OBS-0010,2026-09-11 08:21:05,Car,TS 07 PQ 7712,0.95,veh_obs_0010.jpg,84,60,Yes,17.4433,78.3815,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0010.jpg,/evidence/plates/plate_0010.jpg
+OBS-0011,2026-09-11 08:22:01,Bike,TG 11 JK 4501,0.93,veh_obs_0011.jpg,52,50,Yes,17.4408,78.3495,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0011.jpg,/evidence/plates/plate_0011.jpg
+OBS-0012,2026-09-11 08:23:22,Bus,TS 08 XY 1290,0.97,veh_obs_0012.jpg,58,60,No,17.4489,78.3748,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0012.jpg,/evidence/plates/plate_0012.jpg
+OBS-0013,2026-09-11 08:24:45,Tractor,TS 14 TR 8832,0.88,veh_obs_0013.jpg,28,40,No,17.4912,78.3102,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0013.jpg,/evidence/plates/plate_0013.jpg
+OBS-0014,2026-09-11 08:25:30,Jeep,TS 10 JP 9904,0.94,veh_obs_0014.jpg,62,60,Yes,17.4162,78.4358,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0014.jpg,/evidence/plates/plate_0014.jpg
+OBS-0015,2026-09-11 08:26:40,Auto,TS 09 AT 6623,0.90,veh_obs_0015.jpg,36,40,No,17.4611,78.3582,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0015.jpg,/evidence/plates/plate_0015.jpg
+OBS-0016,2026-09-11 08:27:42,Truck,TS 08 TK 5410,0.96,veh_obs_0016.jpg,74,60,Yes,17.4495,78.3755,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0016.jpg,/evidence/plates/plate_0016.jpg
+OBS-0017,2026-09-11 08:28:15,Train,N/A,0.99,train_obs_0017.jpg,65,80,No,17.4440,78.3830,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0017.jpg,/evidence/plates/plate_0017.jpg
+OBS-0018,2026-09-11 08:28:50,Pedestrians,N/A,0.95,ped_obs_0018.jpg,4,20,No,17.4325,78.4080,https://www.youtube.com/watch?v=MNn9qKG2UFI,/evidence/images/veh_0018.jpg,/evidence/plates/plate_0018.jpg
+OBS-0019,2026-09-11 08:29:55,Car,TS 09 CR 3344,0.96,veh_obs_0019.jpg,79,60,Yes,17.4188,78.3378,https://www.youtube.com/watch?v=1EiC9bvVGnk,/evidence/images/veh_0019.jpg,/evidence/plates/plate_0019.jpg
