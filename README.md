@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VisionIQ
 
 VisionIQ is a React + Vite application with a Django REST Framework backend.
@@ -288,3 +289,6 @@ is present. The driver-distraction `.pth` checkpoint is a bare state
 dictionary without its exact architecture or class mapping; it is not run
 against arbitrary full frames. The live dashboard reports these limitations
 instead of fabricating speed or violation results.
+=======
+# Vision_IQ
+>>>>>>> ec8e087c8de45cdbc5e3dfb29e65f03915e205d1
